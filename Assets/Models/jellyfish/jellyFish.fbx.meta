@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: f6265f15ee0324747ba3933b1ccc196e
+timeCreated: 1506634914
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: jellyRoot
+    100004: joint16
+    100006: joint19
+    100008: joint2
+    100010: joint20
+    100012: joint21
+    100014: joint22
+    100016: joint23
+    100018: joint3
+    100020: joint3 1
+    100022: joint3 2
+    100024: joint3 3
+    100026: joint3 4
+    100028: joint3 5
+    100030: joint3 6
+    100032: joint3 7
+    100034: joint3 8
+    100036: joint3 9
+    100038: joint31
+    100040: joint32
+    100042: joint4
+    100044: joint4 1
+    100046: joint4 2
+    100048: joint4 3
+    100050: joint4 4
+    100052: joint4 5
+    100054: joint4 6
+    100056: joint4 7
+    100058: joint4 8
+    100060: joint4 9
+    100062: joint5
+    100064: joint5 1
+    100066: joint5 2
+    100068: joint5 3
+    100070: joint5 4
+    100072: joint5 5
+    100074: joint5 6
+    100076: joint5 7
+    100078: joint5 8
+    100080: joint5 9
+    100082: joint6
+    100084: joint6 1
+    100086: joint6 2
+    100088: joint6 3
+    100090: joint6 4
+    100092: joint6 5
+    100094: joint6 6
+    100096: joint6 7
+    100098: joint6 8
+    100100: joint6 9
+    100102: joint7
+    100104: joint7 1
+    100106: joint7 2
+    100108: joint7 3
+    100110: joint7 4
+    100112: joint7 5
+    100114: joint9
+    100116: pCylinder27
+    100118: pCylinder34
+    100120: pSphere10
+    400000: //RootNode
+    400002: jellyRoot
+    400004: joint16
+    400006: joint19
+    400008: joint2
+    400010: joint20
+    400012: joint21
+    400014: joint22
+    400016: joint23
+    400018: joint3
+    400020: joint3 1
+    400022: joint3 2
+    400024: joint3 3
+    400026: joint3 4
+    400028: joint3 5
+    400030: joint3 6
+    400032: joint3 7
+    400034: joint3 8
+    400036: joint3 9
+    400038: joint31
+    400040: joint32
+    400042: joint4
+    400044: joint4 1
+    400046: joint4 2
+    400048: joint4 3
+    400050: joint4 4
+    400052: joint4 5
+    400054: joint4 6
+    400056: joint4 7
+    400058: joint4 8
+    400060: joint4 9
+    400062: joint5
+    400064: joint5 1
+    400066: joint5 2
+    400068: joint5 3
+    400070: joint5 4
+    400072: joint5 5
+    400074: joint5 6
+    400076: joint5 7
+    400078: joint5 8
+    400080: joint5 9
+    400082: joint6
+    400084: joint6 1
+    400086: joint6 2
+    400088: joint6 3
+    400090: joint6 4
+    400092: joint6 5
+    400094: joint6 6
+    400096: joint6 7
+    400098: joint6 8
+    400100: joint6 9
+    400102: joint7
+    400104: joint7 1
+    400106: joint7 2
+    400108: joint7 3
+    400110: joint7 4
+    400112: joint7 5
+    400114: joint9
+    400116: pCylinder27
+    400118: pCylinder34
+    400120: pSphere10
+    2300000: pSphere10
+    3300000: pSphere10
+    4300000: pCylinder27
+    4300002: pCylinder34
+    4300004: pSphere10
+    7400000: jellyfish-normal
+    7400002: jellyFish-inBubble
+    9500000: //RootNode
+    13700000: pCylinder27
+    13700002: pCylinder34
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: jellyfish-normal
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: jellyFish-inBubble
+      takeName: Take 001
+      firstFrame: 52
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
